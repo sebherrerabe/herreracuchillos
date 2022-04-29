@@ -1,0 +1,7 @@
+.navbar-brand {
+  background-image: url("../assets/logo/full-logo-white.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 35px;
+  width: 154px;
+}
